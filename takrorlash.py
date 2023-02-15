@@ -1,5 +1,6 @@
-# Bismillahir rohmanir rohiym
-
+"""
+ Bismillahir rohmanir rohiym
+"""
 
 #print('"Nexia"' , '"Tico"' , "'Damas'"  , "ko\'rganlar \nqilar havas" )
 #print('5 ning 4-darajasi',5**4)
@@ -121,11 +122,6 @@ z_shaxslar=["Elon Maask" , "Stev Jobs" , "Bill Gates" , "Maqsudkhan"]
 
 
 
-
-
-
-
-
 friends=[]
 friends.append('Dilshod')
 friends.append('Shuhrat')
@@ -159,54 +155,6 @@ mehmonlar.append('Asliddin')
 mehmonlar.append('Asilbek')
 
 print("kelgan mehmonlar:" ,mehmonlar)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
